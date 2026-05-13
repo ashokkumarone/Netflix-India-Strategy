@@ -32,7 +32,7 @@ Built with real market data from JustWatch, EY-IAMAI, HSBC, and Media Partners A
 ---
 
 ## Files
-- `Netflix-India-Strategy.pdf` — Interactive dashboard (open in any browser)
+- `Netflix_India_Strategy_2026.pdf` — Interactive dashboard (open in any browser)
 - `data.md` — All data sources and statistics
 
 ---
